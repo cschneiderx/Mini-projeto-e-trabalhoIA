@@ -16,3 +16,9 @@ print(dataset.isna().sum())
 
 #testeCompany = dataset['company']
 #print(testeCompany)
+#linhas_com_nulos_country = dataset["country"]
+#linhas_com_nulos_country = dataset[dataset["country"].isnull()]
+#print(linhas_com_nulos_country)
+
+linhas_com_nulos_children = dataset[dataset["children"].isnull()]
+print(linhas_com_nulos_children)
