@@ -22,7 +22,7 @@ O objetivo é **aprimorar habilidades em análise de dados**, praticando o uso i
 
 ---
 
-## 🤖 Projeto 2 — Sistema de Recomendação (Trabalho de IA Aplicada)
+## 🤖 NÃO FINALIZADO AINDA -- Projeto 2 — Sistema de Recomendação (Trabalho de IA Aplicada)
 
 Este é o **trabalho da disciplina de Inteligência Artificial Aplicada**, no qual desenvolvo um **sistema de recomendação de hotéis** utilizando o dataset:
 
