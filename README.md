@@ -48,5 +48,9 @@ A ideia é combinar **filtragem baseada em conteúdo** e **recomendações perso
 
 ---
 
-## 📂 Estrutura do Repositório
+## 📁 /
+├── 🧾 BancoDeDados.db # Banco de dados SQLite com os dados limpos
+├── 📘 analises_pandas_sql.ipynb # Estudo prático de análise e queries
+├── 🤖 sistema_recomendacao.ipynb # Protótipo do sistema de recomendação
+└── README.md # Este arquivo
 
